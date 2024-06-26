@@ -38,7 +38,7 @@
 <tr border="none">
 
 <td width="50%" align="center">
-
+ <p>My public GitHub profile</p>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact"/>
   <img  align="center"  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))"/>
 
@@ -46,5 +46,20 @@
   </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_Python.png" alt="Python" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_R.png" alt="R" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_GEE.png" alt="Google Earth Engine" height="50" width="50" /></a
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_Esri.jpg" alt="ArcGISPro" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_QGIS.png" alt="QGIS" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PowerBI.png" alt="PowerBI" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_SQLServer.png" alt="SQLServer" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PostgreSQL.png" alt="PostgreSQL" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PostGIS.png" alt="PostGIS" height="50" width="50" /></a>
+  
+</p>
+
+
 
 </p>       
