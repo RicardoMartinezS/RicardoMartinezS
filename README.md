@@ -3,7 +3,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About me</h2></summary>
+    <summary><h1 style="display: inline-block">About me</h1></summary>
   </ul>
 </div>
 
@@ -26,7 +26,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies and languages ​​that I know  👨🏻‍💻  </h2></summary>
+    <summary><h1 style="display: inline-block">Technologies and languages ​​that I know  👨🏻‍💻  </h1></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -38,27 +38,35 @@
 <tr border="none">
 
 <td width="50%" align="center">
- <p>My public GitHub profile</p>
+ <h3>My public GitHub profile</h3>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact"/>
   <img  align="center"  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))"/>
 
   
   </td>
+  <td>
+    <h3 align="center">Other skils and technologies</h3>
+      <p align="center">
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_Python.png" alt="Python" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_R.png" alt="R" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_GEE.png" alt="Google Earth Engine" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_html.png" alt="HTML" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_CSS.png" alt="CSS" height="50" width="55" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_JS.png" alt="JS" height="50" width="35" /></a> 
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_Esri.jpg" alt="ArcGISPro" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_QGIS.png" alt="QGIS" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PowerBI.png" alt="PowerBI" height="50" width="50" /></a>  
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/ArcgisOnline.png" alt="ArcGIS Online" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_SQLServer.png" alt="SQL Server" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PostgreSQL.png" alt="PostgreSQL" height="50" width="50" /></a>
+      <a><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PostGIS.png" alt="PostGIS" height="50" width="50" /></a>
+        
+</p>
+  </td>
 </tr>
 </table>
 
-<p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_Python.png" alt="Python" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_R.png" alt="R" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_GEE.png" alt="Google Earth Engine" height="50" width="50" /></a
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_Esri.jpg" alt="ArcGISPro" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_QGIS.png" alt="QGIS" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PowerBI.png" alt="PowerBI" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_SQLServer.png" alt="SQLServer" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PostgreSQL.png" alt="PostgreSQL" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/RicardoMartinezS/Portafolio/blob/main/Imagen/Icon_PostGIS.png" alt="PostGIS" height="50" width="50" /></a>
-  
-</p>
+
 
 
 
