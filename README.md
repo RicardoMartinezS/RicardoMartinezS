@@ -13,7 +13,7 @@
 
 - 🌱 I am a programming enthusiast.
 
-- ☁️ I am interested in the use and implementation of geospatial technologies.
+- ☁️ I am interested in the use and implementation of geospatial technologies in social contexts.
 
 - 📫 Don't hesitate to contact me **martinezsoto.ra@gmail.com**
 
