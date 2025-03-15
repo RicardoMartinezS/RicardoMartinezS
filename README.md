@@ -16,8 +16,12 @@
 - ☁️ I am interested in the use and implementation of geospatial technologies in social contexts.
 
 - 📫 Don't hesitate to contact me **martinezsoto.ra@gmail.com**
+ 
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1_uutRVUyX4I3AZGW2aI97mJhnJ_appIV/view?usp=sharing)
 
--  ✝ Because those who exalt themselves will be humbled, and those who humble themselves will be exalted. Matthew 23:12 
+-    ✝ Because those who exalt themselves will be humbled, and those who humble themselves will be exalted. Matthew 23:12 
+
+
 
 ---
 <!--Intro end-->
@@ -39,9 +43,7 @@
 
 <td width="50%" align="center">
  <h3>My public GitHub profile</h3>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact"/>
-  <img  align="center"  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))"/>
-
+  <img  align="center" alt=" langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartinezS&layout=compact&&langs_count=8"/>
   
   </td>
   <td>
@@ -65,8 +67,6 @@
   </td>
 </tr>
 </table>
-
-
 
 
 
